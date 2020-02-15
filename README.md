@@ -1,9 +1,9 @@
 # liri-node-app
 # images 
-![](images/concertworking)
-![](images/spotifysong)
-![](images/move)
-![](images/do-what)
+![](images/concertworking.png)
+![](images/spotifysong.png)
+![](images/move.png)
+![](images/do-what.png)
 
 1. This app takes in specific user phrases and either a band, a song, or a movie and returns useful results in the console.
 2. The app in split into functions depending on what the user inputs into the command line
