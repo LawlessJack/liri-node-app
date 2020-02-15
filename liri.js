@@ -28,5 +28,6 @@ function searchBandsInTown(artist) {
 
     });
   }
+  console.log("hello stranger")
 
 searchBandsInTown();
